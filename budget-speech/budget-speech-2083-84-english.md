@@ -411,7 +411,52 @@ We will make legal provisions on the corporate social responsibility of industri
 
 We will provide concessional loans to replace traditional boilers in industrial enterprises with electric boilers, and I have allocated NPR 220 million to convert one hundred industries to electric or bio-briquette-based boilers. I have allocated NPR 650 million for industrial infrastructure development.
 
-<!-- TRANSLATION CONTINUES: line 490+ of the Nepali (remaining sectors → provincial/local transfers → fiscal framework). -->
+We will review mining licenses. For the exploration of new mines, we will arrange the geological laboratory and test exploration needed for studies up to Phase II. We will build easy access, electricity supply, and transmission lines to mining areas, large industries, and industrial areas developed by the private sector consuming more than five megawatts. I have allocated NPR 500 million to design, build, and maintain — to special standards — the industrial and mining roads that carry heavy vehicles.
+
+We will establish a Mines and Minerals Authority for the overall regulation and management of the extraction, production, supply, and use of minerals and construction materials. We will swiftly advance the process for commercial production of the petroleum in Dailekh, and advance reducing the Government of Nepal's shareholding in the Dhaubadi Iron Industry to run it under a public-private partnership model. Identifying environmentally suitable sites, we will arrange the extraction, processing, and supply of stone, aggregate, and sand.
+
+### 53. Commerce and Supply
+
+We will provide additional concessions to Nepali products that are already exported in significant volumes and have established brands. For trade and investment facilitation, we will implement the Trade and Industrial Logistics Master Plan. Preparing a national productivity-growth master plan, I have allocated NPR 1.18 billion for production-based incentive programs.
+
+We will swiftly complete and bring into operation the Integrated Check Post (ICP) at Bhairahawa; the under-construction ICP at Chandani Dodhara will be completed within two years.
+
+We will prepare and implement product-specific export strategies to boost exports of goods identified by the Nepal Trade Integration Strategy — tea, carpets, yarn, ready-made garments, cement, and other low-weight, high-value goods. We will conduct the study needed for futures contracts to maintain fuel-price stability, and encourage the installation of EV charging stations with minimum infrastructure at petrol pumps.
+
+We will guarantee purchase at a fixed price through agreements between the Nepal Oil Corporation and ethanol-producing industries. Strengthening the regulatory body, we will end all kinds of syndicates, cartelling, black-marketeering, profiteering, and unhealthy competition.
+
+I have allocated NPR 8.31 billion in total for the industry, commerce, and supply sector.
+
+### 54. Start-ups and Innovation
+
+We will establish the Nepal Enterprise Facility as a platform to connect start-ups and small and medium enterprises to the national enterprise ecosystem. The platform will integrate enterprise-related policy provisions, the identification and development of new financial instruments, an integrated incubation support network, and a domestic-enterprise campaign.
+
+We will provide start-up facilities to one thousand young entrepreneurs wishing to undertake agricultural and livestock enterprises. I have allocated the funds needed to run research, innovation, and entrepreneurship-enhancement programs that give young scientists research opportunities at home. To promote astronomical tourism, I have allocated funds to establish an observatory center at Everest Base Camp.
+
+I have allocated NPR 4 billion for science, technology, and innovation, and NPR 500 million for the Nepal Enterprise Facility.
+
+*Honorable Speaker, Honorable Chairperson,*
+
+### 55. Soft Power and Diaspora
+
+Strengthening balanced foreign relations based on mutual benefit, national self-respect, and sovereign interest, we will mobilize soft power for economic prosperity. Through the integrated use of economic diplomacy, cultural identity, technology, and tourism, we will expand Nepal's international presence, credibility, and influence. We will strengthen Nepal's role in the United Nations and other multilateral and regional forums, and advance robust diplomacy for regional connectivity.
+
+To expand Nepal's soft power, we will advance the promotion of the Buddha's birthplace, the highest peak Sagarmatha (Everest), the Himalayan range, yoga and meditation, cultural diversity, the image of a peace-loving nation, and participation in international peace missions. Empowering Nepali missions abroad, we will strengthen economic diplomacy to promote export capacity, bilateral trade and investment, and tourism.
+
+Making timely amendments to the constitutional provisions on "non-resident Nepali citizenship," we will give concrete form to the slogan "once a Nepali, always a Nepali." Granting non-resident Nepalis all kinds of economic, social, and cultural rights, we will include them in the main campaign of nation-building.
+
+### 56. Banking Sector
+
+We will make timely amendments to the Banks and Financial Institutions Act and the Banking Offense and Punishment Act. I have allocated funds to run credit and livestock programs for poor and small farmers through the Small Farmers Development Microfinance Financial Institution.
+
+We will ensure that amounts in dormant accounts at banks and financial institutions are available to heirs when they make a claim, and mobilize such funds for productive work based on the prescribed legal process.
+
+We will make national and international payment aggregators and the National Payment Switch effective, so that commercial banks and payment-service institutions can make agreements with international payment networks, and we will make legal and institutional provisions to regulate payment aggregators.
+
+To enhance the effectiveness of subsidized loans, we will have loan quality assessed by a third party, and will include the families of Gen-Z movement martyrs and the injured as beneficiaries of this program. To increase electricity consumption and control pollution, we will arrange that household electrical appliances such as washing machines, refrigerators, and vacuum cleaners can be bought and sold on hire-purchase.
+
+<!-- TRANSLATION CONTINUES: line 554+ of the Nepali (rest of banking → federalism/transfers → fiscal framework & totals). -->
+
 
 
 
