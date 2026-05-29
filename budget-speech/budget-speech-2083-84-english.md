@@ -189,7 +189,68 @@ From next year, we will regularly maintain major urban roads, including in the K
 
 To ensure safe mobility for women, we will arrange a modern "Blue Bus" service equipped with CCTV cameras. *(Partly garbled in the source OCR.)*
 
-<!-- TRANSLATION CONTINUES: ¶41 (Urban Development) onward, from line 189 of the Nepali. -->
+### 38. Urban Development
+
+To continue land development and infrastructure construction for building 12 identity-based cities around the Mid-Hill Highway, I have allocated NPR 1.83 billion.
+
+I have allocated NPR 4.19 billion for integrated solid-waste management in major cities, a sewage-free river campaign, and the promotion of greenery along riverbanks.
+
+We will prioritize the strengthening and reconstruction of government buildings damaged during the Gen-Z movement. I have allocated the necessary resources to complete reconstruction of private homes and government buildings damaged by the earthquake in districts including Jajarkot and Rukum West.
+
+We will advance a "local-government-center access improvement program" to connect the centers of local governments not yet linked to the road network to a national highway or the nearest provincial capital via an all-weather road.
+
+To increase citizens' access to basic transport, I have allocated budget to build suspension bridges so that no one is more than a 30-minute walk from one. *(The allocation figure here is garbled in the source OCR.)*
+
+Under Rastriya Awas (National Housing) Company Limited, in the first phase we will build 100 buildings in Mechinagar Municipality, Jhapa, and sell them to the public.
+
+I have allocated NPR 286.48 billion in total for road and urban infrastructure development.
+
+*Honorable Speaker, Honorable Chairperson,*
+
+### 39. Clean Drinking Water
+
+To sustainably solve the extreme dry-season drinking-water shortage in the Tarai-Madhesh, we will develop community-level water systems including deep boring, and run an "Arsenic-Free Tarai" campaign. I have allocated NPR 2.50 billion to complete 280 incomplete water projects in the Tarai-Madhesh.
+
+In the coming fiscal year, we will complete the study for diverting water to Melamchi from the Yangri and Larke rivers. We will begin pipe-network expansion in areas such as Kirtipur, Madhyapur Thimi, Jorpati, Pepsicola, Nagarjun, and Mahalaxmi. I have allocated NPR 7.26 billion for this project.
+
+We will manage electricity, sewerage, and drinking water in urban areas in an integrated manner. I have allocated NPR 2.34 billion for water and sewerage construction and treatment programs in major cities including Damak, Dharan, Itahari, Birgunj, and Hetauda.
+
+Using advanced filtration technology and establishing a nationwide network of water-testing laboratories, we will conduct regular water testing and QR-code-based monitoring. We will complete construction of wastewater-treatment centers with a daily capacity of 72.7 million liters at Sallaghari, Dhobighat, Gokarna, and Hanumanghat in the Kathmandu Valley. I have allocated NPR 3.46 billion for this work.
+
+Outside the valley, we will bring sewage-treatment centers into operation at Khandbari, Belauri, Taunbazar, Barpak, and Trishuli Bazar.
+
+I have allocated NPR 37.17 billion in total for drinking water and sanitation.
+
+### 40. Clean Energy
+
+In the coming fiscal year, 1,040 MW will be added to the national transmission system — 670 MW from hydropower and 370 MW from solar — bringing total installed capacity to 5,535 MW.
+
+Construction of the 40 MW Rahughat Hydropower Project will be completed within this fiscal year. We will accelerate construction of the under-construction Tanahun reservoir project, Upper Modi A, Upper Modi, Upper Trishuli, and Budhiganga projects.
+
+We will arrange financing and begin the contract process for the 1,061 MW Upper Arun, 828 MW Uttarganga, 210 MW Chainpur Seti, 99 MW Tamakoshi-5, and 77 MW Ghunsa Khola projects. We will advance the study process for the 417 MW Nalgad, 490 MW Arun-4, and 281 MW Nomura projects. With investment that includes Employees Provident Fund contributors, we will begin the contract process for the 439 MW Betan Karnali Hydropower Project.
+
+For the 1,200 MW Budhigandaki reservoir project, we will advance construction under an empowered-authority model. We will complete financial closure of the 670 MW Dudhkoshi reservoir project and begin its contract process.
+
+We will provide the necessary facilitation to develop projects of about 3,000 MW total capacity being advanced through the Investment Board, including the 900 MW Arun-3 and 669 MW Lower Arun.
+
+I have allocated NPR 70 billion to complete under-construction transmission lines and substations. The Hetauda–Dhalkebar–Inaruwa transmission line will be completed within the current fiscal year. We will accelerate construction of the 400 kV New Khimti–Barabise–Kathmandu and Hetauda–Ratmate–Lapsiphedi–New Damauli–New Butwal transmission lines.
+
+On the cross-border front, we will accelerate the Butwal–Gorakhpur and Inaruwa–Purnia transmission lines. We will complete studies and begin construction of the Dhalkebar–Muzaffarpur–Sitamadhi, Lamki–Dododhara–Bareli, Lamahi–Lucknow, Nijgadh–Motihari, and Chilime Hub–Kerung transmission lines.
+
+We will accelerate construction of the Karnali Corridor national transmission line and the electrification of Karnali local levels not yet reached by the national grid.
+
+To begin commercial production of green hydrogen, we will implement a 2.5 MW green-hydrogen plant in Hetauda as a pilot project. To address the electricity shortage during dry-season peak hours, we will launch a 100 MW Battery Energy Storage System program in the Kathmandu Valley. I have arranged the necessary budget to advance green-hydrogen production.
+
+I have allocated NPR 85.54 billion in total for energy generation, transmission, and distribution-line construction.
+
+### 41. Irrigation Infrastructure
+
+In the coming fiscal year, irrigation facilities will reach an additional 15,800 hectares of arable land, bringing the share of irrigated arable land to 64 percent. On river control, we will build embankments and reclaim 210 hectares of land.
+
+Under the Babai Irrigation Project, we will extend irrigation to 1,066 hectares next fiscal year. Rehabilitation of the Rajapur Irrigation Project will be advanced, and we will complete the headworks of the Bheri-Babai Diversion Project. I have allocated NPR 5.63 billion for these projects.
+
+<!-- TRANSLATION CONTINUES: line 248+ of the Nepali (more irrigation/agriculture & remaining sectoral allocations). -->
+
 
 
 
