@@ -279,7 +279,56 @@ We will arrange to select students with special interest and ability in sports f
 
 I have set aside funds to complete the 10th National Games in Surkhet and to build the infrastructure needed for the proposed 11th National Games in Madhesh Province. I have allocated NPR 4.03 billion for the sports sector.
 
-<!-- TRANSLATION CONTINUES: ¶44 Quality Education (line 305) onward. -->
+### 44. Quality Education
+
+I have allocated NPR 1 billion to map the infrastructure needs of community schools across the country.
+
+At the Shahid Dasharath Chand Health Sciences University in Geta, Sudurpaschim Province, we will run programs in four medical-education disciplines, including MBBS, from the 2083/84 academic session.
+
+I have allocated NPR 8.60 billion for scholarships for targeted students from the school level to higher education.
+
+We will promote the study of music, art, and literature across the country. We will support the establishment of a Guthi Research Institute and an Ethnomusicology Center within the Tripureshwar Mahadev temple precinct registered under Rajguthi.
+
+We will make policy provisions and incentives for top-ranked international universities to run campuses in Nepal, and start academic-exchange programs between domestic and foreign professors. Granting universities academic, administrative, and financial autonomy, we will make legal arrangements to run them on a cost-sharing model.
+
+We will provide youth in foreign employment the opportunity to study under the Open University. We will run a teacher- and student-exchange program for students in grades 5 to 8 in community schools across various provinces.
+
+To ensure access to basic education for communities lagging on the Human Development Index, we will run residential schools, starting with the Chepang community in Chitwan district.
+
+I have allocated NPR 218.30 billion in total for the education sector.
+
+### 45. Accessible Health Services
+
+To ensure all citizens' access to and use of quality basic health services, I have allocated NPR 101.95 billion to the health sector, of which NPR 15 billion is for the health-insurance program.
+
+I have allocated NPR 13.15 billion for health social-security programs including treatment of the poor, the Safe Motherhood program, and free medicines. We will revise the basic health-service package based on the changing nature and burden of disease and on cost-effectiveness.
+
+We will complete, within three years, the 336 basic hospitals whose construction has begun. We will build a basic hospital at a suitable location in one local level of each low-HDI province; hospitals not yet started will be built only after scientific mapping. I have allocated NPR 5.90 billion for basic-hospital operation and infrastructure.
+
+We will establish a "National Health Accreditation Authority" to measure, certify, and accredit the quality of health institutions and services.
+
+We will expand telemedicine in remote areas including Karnali and Sudurpaschim and ensure specialist health services through video consultation.
+
+We will establish a burn-treatment unit in the federal specialized hospital and develop the capacity of Bir Hospital and Kirtipur Hospital for intensive burn treatment. We will begin construction of a kidney-disease treatment center and a trauma center in Madhesh Province. I have arranged free treatment of childhood cancers in government hospitals.
+
+We will encourage exemplary, citizen-established health institutions that have earned international reputations for accessible care. Under this, I have allocated budget to upgrade Dhulikhel Community Hospital and the Kathmandu Institute of Child Health, and I have provided tax concessions to encourage the Tilganga Eye Institute in lens production.
+
+We will expand high-altitude-sickness treatment services, and deploy rapid-response teams to affected areas for epidemic prevention and response.
+
+We will establish a "Food and Drug Administration" to ensure the quality and regulation of medicines, diagnostics, and other health-related food materials produced or supplied within the country. We will implement a "one citizen, one digital profile" system for real-time monitoring in all health institutions.
+
+In collaboration with the community, cooperative, and private sectors, we will run "affordable pharmacies" in all health institutions and upgrade the National Medicines Laboratory.
+
+I have allocated NPR 320 million as a capital grant to purchase and install a PET scan and cyclotron machine at the B.P. Koirala Memorial Cancer Hospital.
+
+Bringing into operation the National Ayurveda Panchakarma and Yoga Service Center (Budhanilkantha), the National Ayurveda Research and Training Center (Kirtipur), and the Ayurveda hospital with natural and alternative medicine in Pokhara, we will link the Ayurveda and alternative-medicine sector with health tourism.
+
+We will advance infrastructure development of Narayani Hospital, Gajendra Narayan Singh Hospital, and the Ram Raja Prasad Singh Health Sciences Academy in Madhesh Province. We will begin air-ambulance service in remote areas of Karnali Province.
+
+I have doubled the night-duty allowance of nursing staff and increased by fifty percent the transport allowance provided to female community health volunteers.
+
+<!-- TRANSLATION CONTINUES: ¶46 Women/Children/Gender/Social Security (line 365) onward. -->
+
 
 
 
