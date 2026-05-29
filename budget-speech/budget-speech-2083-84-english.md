@@ -363,7 +363,56 @@ We will launch integrated land-administration services from thirty-five municipa
 
 I have allocated NPR 46.92 billion in total for agriculture and livestock development.
 
-<!-- TRANSLATION CONTINUES: ¶48 Forests/Environment/Climate (line 427) onward. -->
+### 48. Forests, Environment, and Climate Adaptation
+
+To make the water cycle of the Chure and Tarai-Madhesh region sustainable, I have allocated about NPR 1 billion for activities such as water-source conservation, pond construction, landslide control, and embankment construction. We will begin setting support prices for and purchasing herbs and non-timber forest products, and establish a herb-processing center in Karnali.
+
+We will run a results-based REDD+ program for emission reduction, giving local communities priority in the benefits received for carbon-emission cuts, and arrange for the private sector to access concessional capital from international climate funds. For wildfire control, we will use drones and satellites to exchange real-time information. We will run human-wildlife coexistence programs in high-risk areas. We will upgrade the air-pollution measurement centers in major cities and the central environment laboratory.
+
+I have allocated NPR 12.31 billion for the forest, environment, and climate sector.
+
+### 49. Culture and Tourism
+
+We will carry out major infrastructure development of the historical sites Tilaurakot, Devdaha, Kapilvastu, and Ramagrama. I have allocated NPR 830 million for the Greater Lumbini Development Program.
+
+We will develop and brand Janakpur as a wedding destination, and I have set aside funds to upgrade the Ram-Janaki Path and circumambulation road. We will emphasize infrastructure development to promote hill stations in tourism-important hill areas, and make reliable arrangements for the safety and emergency rescue of mountaineers and trekkers.
+
+We will bring a special project to conserve at least two dozen historical Buddhist monasteries over two hundred years old in high-mountain districts including Mustang and Manang. We will advance work to include Tilaurakot (Kapilvastu), Janakpurdham (Dhanusha), and Gokarna (Kathmandu) in the World Heritage list.
+
+We will promote the provincial tourism corridors: Khaptad–Badimalika–Shuklaphanta, Kakrebihar–Panchakoshi–Rara, Thakurdwar–Swargadwari–Ruru, Devghat–Muktinath–Tilicho, Kalinchok–Jugal–Gosaikunda, Sakhada–Dhanushadham–Gadhimai, and Halesi–Chatara–Pathibhara.
+
+We will develop the Great Himalayan Trail and other trails as strategic trekking routes, including a high-hill eco-tourism trail (the "Danphe Route") connecting Khaptad–Ramaroshan–Badimalika–Budhinanda–Rara–Swargadwari–Muktinath. We will develop the Api Himal, Dordi Himal, Sikles–Kapuche–Manang, and Tinjure–Pathibhara trekking routes. As a pilot for cycle trails in the mid-hills of Gandaki Province, we will build the Kaski Lipeni–Thumsikot–Bhachok–Lamtari route (via the "Prince Charles Route" to Karapu) and the Byas–Chhabdi Barahi–Bandipur–Chhimkeshwari–Labdi–Devghat route.
+
+To conserve the culture of indigenous nationalities, we will expand the museum in Kirtipur. To promote the traditional skills, art, and professions of the Dalit community, we will run model homestays targeting dense Dalit settlements in Madhesh, Karnali, and Sudurpaschim. We will give original names to peaks above 6,000 meters that have not yet been named, and market them specially for climbing.
+
+### 50. Civil Aviation
+
+I have allocated NPR 1.13 billion to upgrade Tribhuvan International Airport. We will confirm the construction modality of Nijgadh International Airport within six months. We will collaborate with the private sector in the operation and management of Gautam Buddha and Pokhara regional international airports.
+
+Expanding Bharatpur Airport, we will operate night flights. In cooperation with the provincial government, we will expand Surkhet Airport, and we will upgrade Talcha Airport (Mugu) and Tarigaun Airport (Dang).
+
+I have allocated NPR 7.34 billion for the culture and tourism sector and NPR 2.93 billion for civil aviation.
+
+### 51. Labor and Foreign Employment
+
+Encouraging reverse migration and transforming remittance from consumption to productive use, we will run a "Remittance–Investment Matching Fund." We will implement a returnee-migrant program to make good use of the knowledge, skills, and expertise of those returning from foreign employment, and make youth skilled through various subject-specific short-term and workplace-based training.
+
+To make foreign employment more secure and dignified, we will review labor agreements and make additional agreements with new destination countries. I have allocated the budget needed to rescue Nepali citizens stranded abroad and to smoothly repatriate the bodies of deceased workers.
+
+We will arrange that workers go for foreign employment only after acquiring skills. By arranging collateral-free loans and installment payment from employers, we will make foreign employment dignified, transparent, and automatic, and — promoting zero-cost migration — make service fees worker-friendly. To further encourage remittance through formal channels, a program based on each remittance-inflow receipt will be run.
+
+We will begin programs to provide subsidized meals to support the livelihood and basic health of informal-sector workers. I have allocated NPR 3.63 billion for the labor and employment sector.
+
+### 52. Industrial Development
+
+To develop and expand labor-intensive industries with export potential — such as agro-processing, tourism services, and light manufacturing — we will run a model Employment-Linked Production Zone.
+
+We will make legal provisions on the corporate social responsibility of industrial enterprises. In cooperation between government and the private sector, we will operate a sewerage system with a treatment plant, using clean-energy-based technology, in industrial areas and corridors.
+
+We will provide concessional loans to replace traditional boilers in industrial enterprises with electric boilers, and I have allocated NPR 220 million to convert one hundred industries to electric or bio-briquette-based boilers. I have allocated NPR 650 million for industrial infrastructure development.
+
+<!-- TRANSLATION CONTINUES: line 490+ of the Nepali (remaining sectors → provincial/local transfers → fiscal framework). -->
+
 
 
 
