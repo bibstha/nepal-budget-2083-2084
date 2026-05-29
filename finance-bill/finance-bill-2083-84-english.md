@@ -107,7 +107,44 @@ Now, therefore, the Federal Parliament has enacted this Act.
 
 **38. Special provision on tax/interest/fee waiver for entities registered under the Institutions Registration Act, 2034:** For a not-for-profit institution registered under the Institutions Registration Act, 2034 (whose statute provides that remaining assets go to the Government of Nepal on dissolution) — whether or not registered as tax-exempt under the Income Tax Act, 2058 — if it files the FY 2082/83 return by the end of Poush 2083, the tax, interest, and fees on taxable income created from donations, contributions, and gifts received in that and earlier years shall be waived. If its only income is such donations/contributions/gifts, no return need be filed.
 
-<!-- TRANSLATION CONTINUES: §39 onward — remaining Act sections (statutory amendments to the VAT/Income Tax/Excise/Customs Acts), then the tariff schedules (Annexes 1+). -->
+> *The following are time-bound relief provisions. Most share a common structure: if the outstanding amount plus an additional one percent is paid (and any pending case withdrawn) by a stated deadline — generally the end of Poush 2083 — the associated interest, additional charges, fines, and late fees are waived.*
+
+**39. Insurance agents:** Where a person doing insurance-agent business did not collect VAT due for FY 2082/83 or earlier, the tax and its interest, additional charges, and fines are waived, and no return need be filed.
+
+**40. Income-tax interest/fee waiver:** (1) A person who earned taxable income without a PAN and did not pay tax may, on obtaining a PAN, filing FY 2079/80–2082/83 returns by the end of Poush 2083, and paying the tax due, have the fees and interest waived, with no liability for earlier years. (2) A PAN-holder who earned nothing and did not file for FY 2081/82 or earlier may deregister or resume by filing and paying for FY 2082/83 and applying by the end of Poush 2083; absent an application the PAN is auto-deregistered, and reactivation later requires filing the period's returns, tax, fees, and interest. (3) A PAN-holder with outstanding tax and returns may pay it plus one percent and file by the end of Poush 2083, with fees and interest waived.
+
+**41. VAT fines/interest waiver:** (1) A VAT-registered person who did not collect/deposit VAT on past taxable transactions may deposit the collectible tax plus one percent by the end of Poush 2083 and file returns through Chaitra 2082, with interest, additional charges, and fines waived. (2) One who collected the tax but did not file may file through Chaitra 2082 by the same deadline and pay the tax plus one percent, with the same waiver.
+
+**42. VAT on paneer:** The outstanding, uncollected VAT on past sales of milk-based paneer (cheese) is waived.
+
+**43. Excise fines/late-fee waiver:** (1) A person (licensed or not) who dealt in excisable goods without collecting excise may file the Section 10A details and pay the excise plus one percent by the end of Poush 2083, with late fees and fines waived. (2) A licensee who did not renew on time may renew by paying the FY 2082/83 renewal fee by the end of Ashwin 2083, with other years' renewal fees and fines waived; failing that, the license is auto-cancelled.
+
+**44. Filed-but-outstanding tax:** Persons who filed VAT/income/excise returns but had amounts outstanding as of 15 Jeth 2083 may pay the outstanding amount plus one percent by the end of Poush 2083, with fees, additional charges, fines, interest, and late fees waived.
+
+**45. Assessment arrears:** (1) For VAT/income tax/excise assessed or reassessed by the IRD by 15 Jeth 2083 and outstanding, payment of that amount plus one percent by the end of Poush 2083 waives the fees, additional charges, fines, and remaining interest/late fees. (2) This does not apply to persons in the telecommunications-service business.
+
+**46. Pending cases withdrawn:** (1) For tax assessed by 15 Jeth 2083 and contested in administrative review or a judicial body, withdrawal of the case and payment of the assessed amount plus one percent by the end of Poush 2083 waives the fees, additional charges, fines, interest, and late fees. (2) Where the IRD has Supreme Court appeal/review permission pending, the government may withdraw the case if the taxpayer pays the disputed tax plus one percent by the deadline. (3) Similar relief applies to cases not yet reassessed. (4) This relief does not apply to telecom-service businesses.
+
+**47. UN/international/diplomatic staff:** Resident persons working at the UN office in Nepal, its agencies, or other recognized international/diplomatic bodies who do not receive Vienna-Convention exemption, who received remuneration but did not pay income tax or file returns, may obtain a PAN and file/pay income tax for FY 2079/80–2082/83 plus one percent by the end of Mangsir 2083, with interest and fees waived and no liability for earlier years.
+
+**48. Companies Act, 2063:** Companies that failed to file, renew, or pay required tax/fees may — to continue operating or deregister — file and pay for FY 2082/83 by the end of Ashwin 2083, with all earlier tax, fees, charges, interest, and fines waived.
+
+**49. Annual Finance Act levies:** (1) A person liable for any fee/charge/tax under an annual Finance Act who did not pay (in full) or file may pay the outstanding amount plus one percent and file by the end of Mangsir 2083, with fines/interest/fees waived. (2) Where assessed/outstanding or under judicial review, withdrawal and payment of the amount plus one percent by the same deadline waives fines/interest/fees. (3) A casino licensee that paid its arrears/royalty/fees through FY 2082/83 but did not renew may, by paying fifteen percent of the pending-period renewal fee as a fine, regularize the license once and renew for FY 2083/84 after confirming compliance with the Tourism Act, 2035 and Casino Rules, 2082; for casinos with cases pending, the court's decision governs.
+
+**50. Revenue-leakage cases:** For income-tax/VAT cases filed under the Revenue Leakage (Investigation and Control) Act, 2052 and pending in court, if the person deposits the assessed amount plus one percent and applies by the end of Poush 2083, the fine is waived and the government may withdraw the case.
+
+**51. Bank-guarantee release / cash-deposit refund:** For industries that imported raw materials under a bank-guarantee (bonded warehouse) or passbook facility and could not export the finished goods within the legal period, if they export the finished goods, receive the foreign currency, and apply with evidence by the end of Mangsir 2083, the bank guarantee may be released or the cash deposit refunded.
+
+**52. Transfer of diplomatic/duty-facility vehicles:** Foreign missions or donor agencies may, by the end of Poush 2083, transfer to a Government of Nepal body vehicles imported on diplomatic/duty facility that are not more than ten years old from manufacture; such transfers shall be fully exempt from customs duty, VAT, excise, and the road construction fee.
+
+**53. Interim administration of the property registration fee:** Until provinces/local levels have the means, resources, technology, workforce, and office setup to collect the property registration fee under the Inter-Governmental Fiscal Management Act, 2074, the relevant Government of Nepal office shall collect the fee at the rate set by the province/local level and deposit it into the relevant provincial or local consolidated fund as that Act provides.
+
+## Amendments to Existing Laws
+
+**54. Amendment to the Liquor Act, 2031:** In Section 2(a) of the Liquor Act, 2031, after the words "prepared beverage," the words "prepared cocktail, carbonated wine and liquor, spritz, shandy," are inserted; and the words "E.N.A. and head spirit" are replaced with "E.N.A., head spirit, and other goods designated as liquor goods by the Department."
+
+<!-- TRANSLATION CONTINUES: §55 onward — amendments to the VAT/Income Tax/Excise/Customs Acts (lines 267–308), then the tariff schedules (Annexes, lines 309+). -->
+
 
 
 
