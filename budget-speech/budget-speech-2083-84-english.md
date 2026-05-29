@@ -2,9 +2,9 @@
 
 *Presented to the joint session of the Federal Parliament by Finance Minister Dr. Swarnim Wagle. Government of Nepal, Ministry of Finance — 15 Jeth 2083 B.S. (www.mof.gov.np).*
 
-> **Unofficial English translation**, produced by machine from OCR-recovered Nepali text. Not authoritative; verify against the original Nepali before any official use.
+> **Unofficial English translation**, produced by machine from OCR-recovered Nepali text. Not authoritative; verify against the original Nepali before any official use. Paragraph numbering from the sectoral sections onward follows reading order, as the source OCR scrambled the original numbers. The statistical annexes (income/expenditure tables) are not included — see the original PDF.
 >
-> 🚧 **Translation in progress (batched).** The opening section is translated below; the remainder is being added incrementally.
+> ✅ **Complete** — the full speech (introduction, reforms, sectoral programs, fiscal framework, revenue policy, and closing) is translated below.
 
 ---
 
@@ -562,7 +562,49 @@ I have set the tax-audit period at three years. For risk-based tax investigation
 
 I have arranged to introduce digital excise stamps. To control excise leakage, we will introduce an electronic track-and-trace system, and progressively transform physical-control-based excise administration into a risk-based self-clearance system.
 
-<!-- TRANSLATION CONTINUES: line 684+ of the Nepali (remaining revenue measures → closing). -->
+We will develop paperless, faceless, and contactless revenue administration, in which services such as filing tax returns, making payments, and claiming refunds flow automatically. To raise employee morale and increase revenue mobilization, we will provide a performance-indicator-based incentive allowance in revenue administration.
+
+When goods are transported from one place to another, multiple taxes — such as the export and scrap levies imposed by more than one local level — may no longer be charged. We will require disclosure of the permanent account number when paying provincial and local taxes.
+
+### 68. Trade Facilitation and Customs Process Reform
+
+To honor good businesses and facilitate trade, we will arrange customs clearance through a "blue lane" with identification of Authorized Business Persons. We will further strengthen, and make more transparent and realistic, the transaction-value-based online customs-clearance system, and restructure the post-clearance audit office.
+
+To facilitate tourists entering Nepal by land, I have arranged for temporary import declaration of vehicles and online fee payment at all main customs offices. To promote wedding tourism, we will automate the declaration of goods brought for weddings, the taking of deposits, and the refund of those deposits upon return after the wedding. We will make a simple arrangement for tourists to bring in convertible foreign currency within the limit prescribed by law.
+
+**Revenue-leakage control:** We will control smuggling in border areas through technology-friendly surveillance and joint market monitoring, and further expand agreements to exchange information with cross-border customs administrations before goods arrive.
+
+### 69. Tax Concessions, Exemptions, and Facilities
+
+I have granted customs-duty exemption on the import of raw materials by industries producing artificial limbs and disability-assistive materials within Nepal. I have arranged that insurance on residential buildings — up to a maximum of NPR 10,000 — may be deducted for income-tax purposes.
+
+For land acquired to operate development and construction projects, I have arranged that no capital gains tax applies on the amount up to the government valuation set for real-estate registration. I have arranged full income-tax exemption for the first ten years for agro-processing industries, and VAT exemption on the import of machinery and equipment including cold stores, packaging, and testing labs. Compliant taxpayers will be given high honor, facilities, and procedural simplification.
+
+*Honorable Speaker, Honorable Chairperson,*
+
+### 70. Presentation of the Estimates
+
+I have herewith presented the actual expenditure of FY 2081/82, the revised estimate of the current FY 2082/83, and the expenditure estimate with sources for the coming FY 2083/84. The details of estimated income and expenditure are set out in the annexes. I have also presented details of the technical assistance to be received from donor nations and agencies, and the assistance mobilized through international non-governmental organizations.
+
+## Conclusion
+
+**71.** In conclusion, this budget is the starting point for implementing a new vision and resolve for running the state, a clear roadmap for economic transformation, and the political contract made with the citizens. Presented with the goal of building a foundation for good governance, the rise of the middle class, productive employment, a competitive economy, and a dignified life, this budget seeks to redefine the state's role not merely as a controller and regulator but as a creator of opportunity. It advances energy, agriculture, forestry, industry, tourism, information technology, and human capital as the carrier sectors of the coming decade's prosperity, beginning a new phase of structural reform in the economy.
+
+**72.** Through this budget, a foundation has been prepared to set order in governance, restore the private sector's confidence, make the public-service-delivery mechanism technology-friendly and accountable, and begin a new virtuous economic cycle based on production, innovation, and entrepreneurship. The tax system has been made simple, equitable, and production-oriented; public expenditure has been made frugal and results-oriented.
+
+**73.** As a result of these reform and transformation programs, I am confident that 7 percent economic growth will be achieved in the coming fiscal year and that the inflation rate will be contained within 6 percent. Nepal Rastra Bank will issue a monetary policy that supports the implementation of the policy reforms and programs announced in the budget. I believe that through the honest implementation of these programs — centered on good governance, integrity, and equitable prosperity — Nepal will be transformed within five years into a well-governed, prosperous, and self-respecting nation, achieving most of the goals of the Sixteenth Plan and the Sustainable Development Goals.
+
+**74.** I express my heartfelt gratitude to the Right Honorable President, the Right Honorable Prime Minister, the Honorable Speaker, the Honorable Chairperson, and the leadership of the political parties for their guidance in formulating the budget. I express my heartfelt thanks to the Honorable Members of Parliament, the private sector, workers, farmers, youth, development partners, civil servants, the expert community, the media, and all Nepali brothers and sisters who provided constructive suggestions, factual analysis, and collaborative support during the budget's formulation.
+
+**75.** I believe that nation-building is not the responsibility of the government alone; it is a shared resolve, collective determination, common effort, and aggregate campaign among the state, the private sector, and civil society. A budget is neither merely a technical presentation of figures nor only an "economic-political document." It is a reliable map of the path of development that a government — entrusted with governance by citizens who believed in it wholeheartedly — builds to reform and improve the country. If this document cannot connect with the hearts of citizens, then however correct its letters and numbers may be, they remain lifeless. The goodwill, support, and cooperation of citizens are the imperishable capital of the government, and this government will always remain committed to protecting and increasing it.
+
+**76.** On the nation-building journey that this budget sets out to lead, I make a heartfelt appeal to all political parties, the private sector, workers, farmers, youth, entrepreneurs, migrant Nepalis, and all citizens to lend their support with civil dialogue, cooperation, meaningful participation, and a shared spirit of national unity.
+
+---
+
+*End of the budget speech. The source document's final pages contain the statistical annexes (estimated income and expenditure tables); these are heavily garbled in the OCR and are not reproduced here — refer to the original PDF for the annex figures.*
+
+
 
 
 
