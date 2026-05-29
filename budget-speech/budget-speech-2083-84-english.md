@@ -127,6 +127,69 @@ We will restructure the agricultural service system into a "farmer-centered serv
 
 **(b)** We will provide "business revival loans" to industries and businesses that have been unable to operate at full capacity due to a lack of capital, encouraging them to expand and grow.
 
-<!-- TRANSLATION CONTINUES: paragraph 26 onward (line 120+ of the Nepali) in subsequent batches. -->
+**26.** We will make start-ups, innovation, and entrepreneurship a strong foundation of economic transformation. Aligning start-ups with identity, skills, markets, and financial access, we will strengthen the start-up operating system through profit-linked tax concessions, priority access in public procurement, digital registration, and regulatory facilitation. Rather than confining start-up financing to a purely loan-based model, we will arrange grants at the initial stage, concessional loans for ventures with proven feasibility, and growth capital at the expansion stage, while also encouraging co-investment by the private sector and non-resident Nepalis. I have allocated at least one percent of capital expenditure for science, technology, research, and innovation.
+
+**27.** Introducing a personal credit-scoring system, we will operate "peer-to-peer (P2P) lending" under regulation. We will make policy arrangements to channel credit at long-term fixed interest rates into the agriculture, industry, tourism, and hydropower sectors. To effectively manage rising bad loans and non-banking assets in the banking sector, we will establish a National Asset Management Company with special legal powers by the end of Poush.
+
+**28.** We will carry out systematic restructuring of the overall educational ecosystem. We will increase investment in school education to expand innovation- and skills-centered education, based on national school mapping and infrastructure audits, teacher-capacity testing, and AI and ed-tech readiness assessments.
+
+**(a)** Transforming the education system into a "school-centered system," we have adopted a policy of accepting parental support for improving educational quality and building infrastructure. We will make school management committees a means of ensuring quality education. We will run a "Clean Toilet Campaign" in all educational institutions. We will restructure higher education as a center of research, innovation, knowledge production, and national capacity building.
+
+**(b)** We will review and substantially increase, within the current fiscal year, the quotas currently set in various higher-education disciplines such as medicine, nursing, and information technology.
+
+**(c)** We will expand a demand-based skills system directly linked to industry and the labor market. Implementing a National Qualifications Framework and recognition of prior learning, we will grant formal recognition to the skills of migrant, informal, and experienced workers. A paid internship system will be institutionalized.
+
+**29.** This budget aims to make a policy leap in health services. We have adopted the long-term goal of making basic institutions — with skilled health personnel, laboratories, essential medicines, digital health systems, and effective referral services — the first point of health care. We will enable Nepal Aushadhi Limited to produce at least 25 types of the medicines the government provides free of charge. We will develop the Tribhuvan University Teaching Hospital, the National Academy of Medical Sciences, and the Patan Academy of Health Sciences into international-standard universities capable of providing education even to foreign students. Under a public-public partnership model, the main government hospitals of all seven provinces will be transformed, in phases, into teaching hospitals and specialized health-service centers. We will channel the investable resources of the Employees Provident Fund, the Citizen Investment Trust, and the Social Security Fund into health infrastructure, medical education, and the expansion of specialized services.
+
+We will comprehensively restructure the health-insurance program. Integrating the scattered social health-security programs and health-related liabilities, we will adopt a single-payer method. We expect that, through universalization of health insurance, 90 percent of Nepalis will come within its coverage within three years and that individual treatment costs will fall significantly. Formulating a national trauma policy, we will minimize the loss of life and property from road accidents and sudden trauma.
+
+**30.** Within the next five years, we will ensure 24-hour clean drinking water through a smart distribution system. Within three years we will provide safe and clean drinking-water service to 65 percent of citizens, and to 100 percent within five years. We will strengthen the regulatory system to ensure the quality, fee structure, and service obligations of water supply. To ensure sustainable drinking-water service in the Kathmandu Valley, we will review the existing tariff structure. We will merge the Kathmandu Valley Water Supply Management Board, Kathmandu Valley Water Supply Limited, the Project Implementation Directorate, and the Water Supply and Sanitation Service Tariff Fixation Commission into a single structure.
+
+**31.** We will make the social-security system more equitable and targeted. We will run a national campaign — "let those who can, give up; give to those who cannot" — for economically capable citizens to voluntarily forgo their social-security allowance, and we will honor such contributions as an example of intergenerational justice and national solidarity. I have doubled the child-nutrition allowance provided to Dalit children across the country, raising it to NPR 1,000 per month. I have continued the nutrition allowance for children in the 25 districts — mainly in Madhesh, Karnali, and Sudurpaschim provinces — that have high poverty and lag on the Human Development Index.
+
+**32.** We will require workers and employers to register compulsorily in a labor registry. From this, standards will be set for services — such as insurance, accommodation, and digital grievance management — provided by licensed institutions supplying not only security guards and domestic workers but also construction, agriculture, hospitality, transport, and industrial labor. In the labor sector, we will make written agreements, minimum wages, insurance, workplace-safety standards, and payment of remuneration through banks mandatory. We will make the system of mandatory compensation and insurance claims for workplace accidents more effective. By the end of Poush, a system will be developed to resolve labor disputes swiftly through a labor tribunal and to bring contract violations, wage fraud, and labor exploitation within the legal ambit as economic crimes. We will run a special campaign to bring workers in the informal and unorganized sector into the social-security system.
+
+**33.** To make the capital market dignified and investor-friendly, we will strengthen the regulator's capacity, the trading system, and investor-protection mechanisms. Advancing the restructuring of the Nepal Stock Exchange, we will introduce, in phases, instruments such as intraday trading, short selling, and derivatives. We will adopt a policy of zero tolerance toward undesirable capital-market activities such as share manipulation and insider trading. We will arrange that companies listed on Nepal's securities market may issue Global Depository Receipts for listing on foreign securities markets, after completing the prescribed process.
+
+**34.** Expanding soft power, we will make good use of the diaspora's skills, capital, and networks. We will prepare the legal, technical, and administrative infrastructure to engage Nepali citizens living abroad in the democratic process and ensure their voting rights. Comprehensively reforming the visa system, we will present a new bill in Parliament for investment-friendly immigration management. Although Nepal currently meets the minimum criteria to graduate from the UN's least-developed-country status, we have decided to upgrade Nepal after another two years on the strength of an intensive economic-social national revival; we wish that such graduation be irreversible.
+
+**35.** We will build a strong foundation of transparency and accountability in the political system. To institutionalize healthy democratic competition, we will hold a broad political debate on providing government grants to nationally recognized political parties based on the votes received in the most recent general election. Any such grant will be arranged to be audited by the Auditor General.
+
+**36.** We will make evidence-based policymaking, implementation, and monitoring effective. The Education Quality Testing Center, the agricultural statistics system, and the consumer-price-index statistics system under Nepal Rastra Bank, among others, will be integrated under the National Statistics Office. Likewise, placing the Policy Research Institute under the National Planning Commission, we will make it a body capable of shaping the government's long-term vision and policymaking.
+
+*Honorable Speaker, Honorable Chairperson — I now present the sector-wise programs and allocations.*
+
+### 37. Road Infrastructure
+
+In the coming fiscal year, about 1,000 kilometers of road will be blacktopped and 275 road bridges built.
+
+We will complete, within five years, the upgrading of the 1,028-kilometer East–West Highway to four lanes. This year, the upgrading of the Kamala–Kanchanpur and Narayangadh–Butwal sections will be completed. Next year we will upgrade 80 kilometers of road under the Kakadbhitta–Laukahi, Kamala–Bagmati, Butwal–Gorusinge, and Dhankhola–Lamahi sections, and begin upgrading the Bagmati–Pathlaiya, Narayangadh–Hetauda, and Gorusinge–Chanauta sections. We will complete studies for upgrading the Chanauta–Dhankhola and Kohalpur–Gaddachauki sections. I have allocated NPR 37.46 billion for the East–West Highway. *(Some section names in this paragraph are garbled in the source OCR.)*
+
+On the Kathmandu–Tarai/Madhesh Expressway, next year we will complete 40 bridges and 5.4 km of tunnel and begin construction of the expressway's link road. I have allocated NPR 17.64 billion for this expressway.
+
+The Hulaki (Postal) Highway will be completed within three years; under it, beginning the widening of the highway through densely populated areas, we will complete 8 road bridges. I have allocated NPR 4.65 billion for this highway. Under the Karnali Highway, I have allocated NPR 1 billion to upgrade the Surkhet–Jumla–Gamgadhi road.
+
+We will complete the Pushpalal Mid-Hill Highway within three years; I have allocated NPR 2.16 billion to upgrade 65 km of road and build 5 bridges. Under the Madan Bhandari Highway, I have allocated NPR 1.46 billion to blacktop 25 km of road and build bridges.
+
+Within three years we will complete the bridges under construction on main highways and strategic roads, including construction and upgrading of 40 large bridges on national highways. I have allocated NPR 9.87 billion for national-highway and strategic-road bridges, bridges of special importance, and local-road bridges.
+
+Under the Prithvi Highway, the four-lane road from Aanbukhaireni (Tanahun) to Pokhara will be completed soon; we will begin the Mugling–Aanbukhaireni section, and upgrade 40 km under the Nagdhunga–Mugling section. We will bring the Nagdhunga tunnel road into operation from next Shrawan. I have allocated NPR 6.55 billion for these sections.
+
+31 km of the Karnali Corridor will be blacktopped and gravelled, 21 km of the Kaligandaki Corridor blacktopped, and 15 km of the northern Koshi Corridor blacktopped. I have allocated NPR 6.25 billion for these three corridors. I have allocated NPR 1.35 billion to upgrade the Galchhi–Syaphrubesi–Rasuwagadhi section.
+
+Construction of the Butwal–Pokhara section of the Siddhartha Highway as an expressway will begin, and the Siddhababa tunnel road will be completed within the coming fiscal year. I have given special priority to opening the track of the Darchula–Tinkar section of the Mahakali Corridor. Upgrading of the Mechi, Arun, Tamor, Bheri, and Seti corridors and the Khutiya–Dipayal road will be accelerated. Under the expansion of the Kathmandu Ring Road, we will begin the Kalanki–Basundhara section, complete the design of the Basundhara–Chabahil–Koteshwar section, and carry out a detailed feasibility study of the Tokha–Chhahare tunnel road.
+
+To ease daily life, we will study the feasibility of the tunnel road from Mulsam (Jajarkot) to Topla (Jumla), and study construction of the Khurkot–Chiyabari, Thankot–Chitlang, Majhimtar–Shaktikhor, and Chisapani–Babai tunnels.
+
+Continuing the installation and maintenance of traffic signals, intersection improvements, road markings, crash barriers, and dividers at major junctions, I have allocated NPR 2.46 billion for road safety.
+
+We will advance construction of the railway from Bardibas to the Kathmandu–Tarai/Madhesh Expressway's departure point, and have allocated funds to complete the remaining work on the under-construction Bathnaha–Biratnagar and Janakpur–Jaynagar–Bardibas railways.
+
+From next year, we will regularly maintain major urban roads, including in the Kathmandu Valley, making them dust-free and pothole-free; I have allocated NPR 28.52 billion to run this as a nationwide road-maintenance campaign. We will build climate-resilient structures at high-risk highway locations, and I have allocated NPR 3.17 billion to immediately clear landslide obstructions and restore service.
+
+To ensure safe mobility for women, we will arrange a modern "Blue Bus" service equipped with CCTV cameras. *(Partly garbled in the source OCR.)*
+
+<!-- TRANSLATION CONTINUES: ¶41 (Urban Development) onward, from line 189 of the Nepali. -->
+
 
 
