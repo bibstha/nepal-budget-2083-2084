@@ -455,7 +455,42 @@ We will make national and international payment aggregators and the National Pay
 
 To enhance the effectiveness of subsidized loans, we will have loan quality assessed by a third party, and will include the families of Gen-Z movement martyrs and the injured as beneficiaries of this program. To increase electricity consumption and control pollution, we will arrange that household electrical appliances such as washing machines, refrigerators, and vacuum cleaners can be bought and sold on hire-purchase.
 
-<!-- TRANSLATION CONTINUES: line 554+ of the Nepali (rest of banking → federalism/transfers → fiscal framework & totals). -->
+### 57. Insurance, Securities, and Cooperatives
+
+We will arrange that at least 20 percent of the policies issued by Nepali insurance companies must be reinsured through the Nepal Reinsurance Company. We will arrange that the leadership and operation of the collective insurance fund for long-term insurance is through the Nepal Reinsurance Company, and — for risk reduction — that a fixed share of reinsurance is placed with foreign reinsurance companies. We will arrange that the reinsurance of the protection programs run by the Employees Provident Fund, the Citizen Investment Trust, the Deposit and Credit Guarantee Fund, the Health Insurance Board, and the Social Security Fund is done through the Nepal Reinsurance Company.
+
+The third-party insurance coverage, which has long remained unchanged, will be raised to NPR 1 million. To reduce road accidents, we will require the installation of accident devices in vehicles, and make insurance for accidents, fatal diseases, and transport mandatory. We will require insurance when approving building-construction blueprints in urban areas.
+
+We will present a separate bill in Parliament on securities-market management and offenses and penalties, and draft a Trustee Bill to regulate financial trustees. We will make the role of the National Cooperative Regulatory Authority more effective in monitoring and regulating savings-and-credit cooperatives. To refund the deposits of savers in troubled cooperatives, we will continue refunding savings from the Integrated Savers' Protection Fund — established as a revolving fund reimbursed from the sale of cooperatives' savings and assets.
+
+### 58. Good Governance
+
+Drafting a law on conflict of interest, we will end policy corruption. For the effective management of criminal proceeds, we will link the relevant bodies to an integrated information system and make recovery, confiscation, acquisition, and management more effective.
+
+We will install essential equipment and build physical structures to expand multi-specialty services from the Civil Servants' Hospital. We will develop the "Hello Sarkar" mechanism as a government-citizen dialogue platform, and implement digital time cards in government offices. Using the national identity card as the basic ID for public-service delivery, we will strengthen systems connected with citizen services such as land revenue, transport, passports, vital-events registration, and social-security management.
+
+In view of changing economic diplomacy, we will close the Nepali embassies in Denmark, Brazil, and South Africa, the consulates general in Chengdu and San Francisco, and the embassy branch in Visakhapatnam. Constitutional bodies will be made resource-rich to strengthen their performance.
+
+Recognizing that civil servants' salaries have not risen for four years, that the consumer-price-index-based price rise over this period is 17.3 percent, and that remuneration must support dignified living, I have reviewed pay and benefits. Continuing the dearness allowance employees currently receive, I have increased the starting-scale salary by 10 percent. To begin a performance-based remuneration system, I have arranged a 10 percent monthly incentive allowance on the new salary scale. Through this, current remuneration will see a net increase of about 21 percent, and the minimum remuneration (including grade) will range from about NPR 40,000 to over NPR 100,000. The new salary scale will take effect from 1 Shrawan 2083 B.S.
+
+### 59. Rule of Law and National Security
+
+To make the justice system swift and effective, we will expand an "electronic court management system" through maximum use of IT, and run a free legal-aid program for poor citizens and those in remote areas. The remaining work on the peace process and transitional justice will be brought to a conclusion as soon as possible. We will review the National Security Policy, 2075.
+
+Continuing the housing-upgrade program for Nepal Army soldiers, I have allocated NPR 2 billion. We will conserve historical forts and link them with tourism.
+
+To make the Nepal Police's investigation and prosecution process effective, we will emphasize the use of technology — increasing investment in forensic-science laboratories, the use of artificial intelligence in investigation, and physical-infrastructure development. We will study reviewing the existing gap between the retirement service period and the pension-commencement period of the Nepal Police and Armed Police. We will develop the Armed Police Force Nepal as a dedicated professional force for international border security.
+
+Strengthening and expanding prison capacity and implementing the open-prison concept, we will progressively transform prisons into correction homes. We will develop the capacity of the workforce and volunteers engaged in disaster response, and expand risk-transfer instruments, including insurance, for post-disaster compensation, relief, and reconstruction.
+
+### 60. Fiscal Federalism
+
+To remove the duplication of authority, responsibility, and functions among the federal, provincial, and local levels, we will review the detailing of functions. We will resolve the existing double-taxation dispute among the three tiers through jurisdictional clarity and legal reform. To strengthen federalism and improve local services, we will establish a Governance Innovation Challenge Fund.
+
+*Honorable Speaker, Honorable Chairperson — I now present the estimate of appropriation and resource management for implementing the sectoral policies and programs described above.*
+
+<!-- TRANSLATION CONTINUES: line 618+ of the Nepali (the fiscal framework — total budget size, allocation by type, sources of financing). -->
+
 
 
 
