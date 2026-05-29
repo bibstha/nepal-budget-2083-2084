@@ -143,7 +143,28 @@ Now, therefore, the Federal Parliament has enacted this Act.
 
 **54. Amendment to the Liquor Act, 2031:** In Section 2(a) of the Liquor Act, 2031, after the words "prepared beverage," the words "prepared cocktail, carbonated wine and liquor, spritz, shandy," are inserted; and the words "E.N.A. and head spirit" are replaced with "E.N.A., head spirit, and other goods designated as liquor goods by the Department."
 
-<!-- TRANSLATION CONTINUES: §55 onward — amendments to the VAT/Income Tax/Excise/Customs Acts (lines 267–308), then the tariff schedules (Annexes, lines 309+). -->
+**55. Amendment to the Value Added Tax Act, 2052:** In the Value Added Tax Act, 2052,—
+
+(1) In Section 7,— **(a)** after sub-section (1), the following sub-sections are added: *"(1a) Notwithstanding sub-section (1), the Government of Nepal may, by notice in the Nepal Gazette, fix multiple rates not exceeding the rate under sub-section (1), and designate the goods and services to which they apply. (1b) Notwithstanding sub-sections (1) and (1a), for a person providing transport/delivery services through a platform operated by a resident ride-sharing operator, the ride-sharing operator — and a person providing electricity service to the final consumer — shall assess and collect tax at five percent on the taxable value."* **(b)** In sub-section (2), "in sub-section (1)" is replaced with "in sub-section (1) or (1a)."
+
+(2) In Section 8, after sub-section (2a), the following is added: *"(2b) For a person providing vehicle/delivery service through a platform operated by a resident ride-sharing operator, the ride-sharing platform operator shall assess and collect tax on the taxable value."*
+
+(3) Section 14a is replaced with: *"**14a. Electronic invoice:** (1) The Department may, by prescribing standards and procedures, make necessary provisions for issuing invoices electronically. (2) Notwithstanding sub-section (1), the Department may, by notice, order a specified taxpayer to mandatorily issue electronic invoices and connect to the Department's Central Billing Monitoring System (CBMS), or to issue them using the Department's billing system. (3) The Department shall frame and apply a procedure on the security and reliability of the invoicing software or device."*
+
+(4) In Section 16b, "breakage" is replaced with "breakage, natural disaster."
+
+(5) In Section 18,— **(a)** sub-section (1a) is replaced with: *"(1a) Notwithstanding sub-section (1), a taxpayer in a district without an Inland Revenue Office may submit the tax payable and the return to the relevant local level or the District Treasury and Accounts Controller Office by the 15th of the month the return is due; that office shall forward the return and payment details to the relevant Inland Revenue Office within seven days."* **(b)** after sub-section (3), the following is added: *"(4) If a taxpayer wishes to amend a return filed within the deadline, the Department may amend it within seven days of filing, per the prescribed procedure."*
+
+(6) In Section 25(2a), "shall be refunded immediately" is replaced with "shall be exempted immediately." (7) Section 25c1 is removed.
+
+(8) In Section 29(1),— **(a)** clause (chha2) is replaced with: *"(chha2) If a taxpayer issuing electronic invoices under Section 14a(1) or (2) is found using software that can delete or alter data, a fee of NPR 500,000 applies; for non-compliance with other provisions of that sub-section, NPR 100,000."* **(b)** in clause (ta), "one thousand rupees" is replaced with "ten thousand rupees." **(c)** after clause (tha), the following is added: *"(da) For violating the Department's directive on the internal movement of commercial goods, NPR 50,000 per instance."*
+
+(9) In Section 31b, after sub-section (3), the following is added: *"(4) An interpretation made under sub-section (1) shall be final, except where a court interprets otherwise."*
+
+(10) Annex 1 (Tax-exempt goods and services, relating to Section 5(3)) is replaced — see the schedules below.
+
+<!-- TRANSLATION CONTINUES: the tariff/exemption SCHEDULES begin at line 309 of the Nepali (≈3,000 rows of HS-code tables). Approach to be set on the next tick. -->
+
 
 
 
