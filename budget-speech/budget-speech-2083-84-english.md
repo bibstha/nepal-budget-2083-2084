@@ -327,7 +327,44 @@ We will advance infrastructure development of Narayani Hospital, Gajendra Naraya
 
 I have doubled the night-duty allowance of nursing staff and increased by fifty percent the transport allowance provided to female community health volunteers.
 
-<!-- TRANSLATION CONTINUES: ¶46 Women/Children/Gender/Social Security (line 365) onward. -->
+*Honorable Speaker, Honorable Chairperson,*
+
+### 46. Women, Children, Gender Affairs, and Social Security
+
+We will increase integrated, Dalit-centered investment, including activities for preserving traditional Dalit skills, income generation, and technology upgrading. I have allocated NPR 3 billion for nutrition support for Dalit children under five across the country.
+
+Along with honoring the martyrs of the Gen-Z movement, dignified financial assistance for martyrs' families has been ensured. For those injured in the movement, we will run free health treatment, monthly allowances according to the severity of injury, and entrepreneurship-development programs.
+
+We will progressively develop the physical structures, digital technology, websites, and digital software built by government offices in formats usable by persons with all kinds of disabilities. We will establish disability-rehabilitation centers in all provinces, and run an infrastructure-equipped residential model school for children with autism.
+
+We will bring gig workers within the ambit of formal labor and social security. To provide protection from risks that may arise at various stages of the life cycle, I have allocated NPR 120 billion for social security.
+
+We will draft an integrated bill on the prevention of gender-based violence. In cooperation with provincial and local governments, we will carry out family reunification and social rehabilitation of street children and senior citizens, and we will declare Nepal a street-children-free nation.
+
+To build an equitable, civil, and cultured society, we will run a national campaign against untouchability and discrimination, and a social-transformation campaign from all three tiers to end social ills such as child labor, gender-based violence, sexual abuse, chhaupadi, menstrual discrimination, and child marriage. We will run social-inclusion programs for the dignified life of the gender and sexual minority community, and livelihood-improvement programs at the local level for women's entrepreneurship.
+
+I have allocated NPR 310 million for the infrastructure and management of child-correction homes, and funds for the air rescue of at-risk pregnant and post-natal women and newborns in remote areas.
+
+I have allocated NPR 2.27 billion in total for women, children, and gender and sexual minorities.
+
+### 47. Agricultural Development and Land Management
+
+I have increased the allocation for purchasing chemical fertilizer over the current fiscal year, to NPR 32.46 billion. Preparing a fertilizer-supply calendar, we will arrange smooth distribution at the time of planting main food crops. I have allocated NPR 2.07 billion for the National Agriculture Modernization Program.
+
+We will complete farmer identification next fiscal year and begin distributing identity cards. To use idle government land — including reclaimed riverine farmland — and fallow land, we will establish land banks at the local level and encourage the private sector to "agro-pool." We will establish mango processing centers in Siraha and Saptari and a tomato processing center in Sarlahi; in Karnali, we will run fruit zones for apples, walnuts, and the like, and advance cold-storage centers. We will encourage converting unused cultivable private land into shares of commercial agriculture companies to operate agriculture and livestock farms.
+
+I have allocated NPR 360 million to transfer conditional grants to local governments to promote organic and green manure. In cooperation between the Nepal Electricity Authority and the private sector, we will allow a green-urea fertilizer industry to operate under a company model; to promote private-sector green-urea production, we will make purchase-guarantee agreements and provide electricity at concessional rates.
+
+I have allocated NPR 2.19 billion for the agricultural-insurance premium subsidy. To provide financial access to farmers and manage cash flow, we will arrange warehouse-receipt financing based on certification of stored agricultural produce.
+
+For the control of diseases and epidemics in livestock and poultry, we will produce the necessary vaccines domestically, including with private-sector participation; I have allocated NPR 240 million to control diseases such as foot-and-mouth. We will establish an animal quarantine at the Hilsa border point in Humla.
+
+We will launch integrated land-administration services from thirty-five municipalities. To ease real-estate transactions, we will issue land-owner identification numbers and carry out property freezing/releasing, buying/selling, and revenue payment through an online system. We will arrange to complete, within the coming fiscal year, the management of landless Dalits, landless squatters, and unmanaged settlers.
+
+I have allocated NPR 46.92 billion in total for agriculture and livestock development.
+
+<!-- TRANSLATION CONTINUES: ¶48 Forests/Environment/Climate (line 427) onward. -->
+
 
 
 
