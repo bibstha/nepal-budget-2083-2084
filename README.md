@@ -62,8 +62,22 @@ Because neither PDF yields correct text directly, both were processed with OCR:
 - Status: Nepali reconstructions complete; English translations are being
   added in batches (see the 🚧 notes in each English file).
 
+## Sources
+
+- **Ministry of Finance (web page):** https://mof.gov.np/content/1741/budget8384/
+- **Budget Speech — original PDF (Nepali):** https://giwmscdnone.gov.np/media/pdf_upload/budget%20speech%202083_nz9wmgt.pdf
+- **Finance Bill — original PDF (Nepali, full details):** https://giwmscdnone.gov.np/media/pdf_upload/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A5%87%E0%A4%AF%E0%A4%95%2C%20%E0%A5%A8%E0%A5%A6%E0%A5%AE%E0%A5%A9%20_dkhaghj.pdf
+
 ## License / source
 
 Source documents are public records of the Government of Nepal, Ministry of
 Finance (mof.gov.np). This repository adds derived text and translations for
 research and accessibility; it carries no official status.
+
+## Disclaimer
+
+The derived text, reconstructions, and English translations in this repository
+were generated with the assistance of Claude (Claude.ai / Claude Code) by
+Anthropic. They are **unofficial** and may contain errors. Verify them against
+the official source documents listed above before any authoritative or legal
+use.
