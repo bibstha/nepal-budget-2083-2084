@@ -59,8 +59,9 @@ Because neither PDF yields correct text directly, both were processed with OCR:
   tariff tables. Always verify figures against the original.
 - The English is a **machine-assisted translation** of OCR text — meaning is
   generally faithful, but legal/financial precision is not guaranteed.
-- Status: Nepali reconstructions complete; English translations are being
-  added in batches (see the 🚧 notes in each English file).
+- Status: Nepali reconstructions and English translations complete. The budget
+  speech is fully translated; the finance bill's complete legal text (§1–55) is
+  translated, with the tariff/exemption schedules rendered as HS-code + rate tables.
 
 ## Sources
 
