@@ -489,7 +489,81 @@ To remove the duplication of authority, responsibility, and functions among the 
 
 *Honorable Speaker, Honorable Chairperson — I now present the estimate of appropriation and resource management for implementing the sectoral policies and programs described above.*
 
-<!-- TRANSLATION CONTINUES: line 618+ of the Nepali (the fiscal framework — total budget size, allocation by type, sources of financing). -->
+### 61. Total Budget
+
+For the coming fiscal year I have allocated total expenditure of **NPR 2,124.34 billion**. This is 25.2 percent higher than the current year's revised estimate. By type:
+
+| Allocation type | Amount (NPR) | Share |
+| --- | --- | ---: |
+| Recurrent | ~1,270.60 billion | 59.8% |
+| Capital | 431.10 billion | 20.3% |
+| Financing (debt servicing, etc.) | 422.64 billion | 19.9% |
+
+### 62. Sources of Financing
+
+After revenue (NPR 1,405.31 billion) and foreign grants (NPR 61.74 billion), a shortfall of NPR 657.29 billion remains. This is met by NPR 247.28 billion in foreign loans and NPR 410 billion in domestic borrowing. Since NPR 245.89 billion of domestic-loan principal will be repaid next year, net domestic borrowing is only NPR 164.11 billion.
+
+| Source | Amount (NPR) |
+| --- | ---: |
+| Revenue | 1,405.31 billion |
+| Foreign grants | 61.74 billion |
+| Foreign loans | 247.28 billion |
+| Domestic borrowing (gross) | 410.00 billion |
+| *less:* domestic principal repayment | (245.89 billion) |
+| **Domestic borrowing (net)** | **164.11 billion** |
+
+*Now, the details of fiscal transfers under Article 60 of the Constitution of Nepal:*
+
+### 63. Fiscal Transfers
+
+Per the recommendation of the National Natural Resources and Fiscal Commission, for FY 2083/84:
+
+| Grant type | Provinces (NPR) | Local levels (NPR) |
+| --- | ---: | ---: |
+| Fiscal equalization | 61.50 billion | 90.20 billion |
+| Matching (infrastructure) | 4.60 billion | 8.93 billion |
+| Special | 3.82 billion | 9.40 billion |
+| Conditional (federal projects) | 39.72 billion | 206.08 billion |
+
+Revenue sharing is estimated to transfer a total of about NPR 175 billion to the provinces and local levels. In all, through revenue sharing (including royalties) and fiscal transfers, more than NPR 600 billion is projected to be mobilized to the provinces and local levels.
+
+*Honorable Speaker, Honorable Chairperson — I now present the revenue policy and programs for FY 2083/84.*
+
+### 64. Revenue Policy
+
+To expand economic activity by developing a business-friendly tax policy, simple and clear tax laws, voluntary tax participation, and an agile tax administration, I have adopted the following objectives:
+
+- Develop the formal economy by connecting all economic transactions to digital means.
+- Develop an automated, technology-friendly, integrity-based, and motivated tax administration.
+- Increase revenue through voluntary tax participation.
+- Mobilize non-tax revenue based on cost recovery and ability to pay.
+
+### 65. Investment Incentives and Protection
+
+To advance the IT industry as the nation's new economic engine, I have granted a fifty percent tax exemption on income earned from the export of services. I have arranged a 100 percent exemption, in taxable-income computation, for the sweat-equity received by personnel working in the IT sector.
+
+I have levied an "internal production promotion fee" on certain goods imported into Nepal. I have arranged that no income tax applies to interest earned by wholly state-owned, not-for-profit development finance institutions of friendly nations on loans invested in Nepal.
+
+I have arranged full income-tax exemption for the first ten years for those establishing new cinema halls in areas other than metropolitan and sub-metropolitan cities. In the changed context, we will review the sensitive list of the South Asian Free Trade Agreement (SAFTA).
+
+### 66. Voluntary Compliance and Expanding the Tax Base
+
+To support education- and health-infrastructure construction and service expansion in remote areas, I have arranged to levy an equity fee at a minimum rate on education and health services provided by the private sector. I have arranged to levy VAT at a concessional rate on electricity consumption above 50 units per month sold to final consumers.
+
+I have arranged to levy customs duty on electric vehicles on a value basis rather than the peak-power-capacity basis used hitherto, and have levied a clean-infrastructure investment fee at the import point to support domestic production of such vehicles, charging-station construction, and battery management.
+
+To promote the export of Nepali-brand liquor, quality spirit production and maturation will be encouraged. From the coming fiscal year, I have arranged to register micro-breweries as liquor producers and bring them within the excise ambit. I have increased the excise duty on cigarettes by about ten percent, and on liquor and beer. To make non-tax revenue mobilization effective, we will bring an umbrella law.
+
+### 67. Modernization, Transparency, and Simplification of Revenue Administration
+
+Abolishing the Revenue Investigation Department, we will arrange that its functions are carried out through the relevant subject bodies. We will mandatorily connect all businesses with annual turnover above NPR 100 million that issue electronic invoices to the Central Billing Monitoring System, and encourage small businesses to accept payment through electronic means.
+
+I have set the tax-audit period at three years. For risk-based tax investigation and audit, we will develop an e-assessment system with artificial intelligence.
+
+I have arranged to introduce digital excise stamps. To control excise leakage, we will introduce an electronic track-and-trace system, and progressively transform physical-control-based excise administration into a risk-based self-clearance system.
+
+<!-- TRANSLATION CONTINUES: line 684+ of the Nepali (remaining revenue measures → closing). -->
+
 
 
 
