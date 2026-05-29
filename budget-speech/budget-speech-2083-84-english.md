@@ -249,7 +249,38 @@ In the coming fiscal year, irrigation facilities will reach an additional 15,800
 
 Under the Babai Irrigation Project, we will extend irrigation to 1,066 hectares next fiscal year. Rehabilitation of the Rajapur Irrigation Project will be advanced, and we will complete the headworks of the Bheri-Babai Diversion Project. I have allocated NPR 5.63 billion for these projects.
 
-<!-- TRANSLATION CONTINUES: line 248+ of the Nepali (more irrigation/agriculture & remaining sectoral allocations). -->
+Under the Sikta Irrigation Project, we will extend irrigation to an additional 5,000 hectares to the east and west of Banke; I have allocated NPR 2.55 billion for this. We will re-tender and begin construction of the dam and powerhouse of the Sunkoshi–Marin Diversion Project to complete it within four years, with NPR 2.98 billion allocated.
+
+Upgrading the Bagmati Irrigation Project and using the additional water from the Sunkoshi–Marin Diversion, I have allocated NPR 530 million to extend irrigation to 122,000 hectares of arable land in Bara, Rautahat, Sarlahi, Mahottari, and Dhanusha districts. We will expand the command area of the Mahakali Irrigation Project and develop the infrastructure of the Lamki section of the Rani–Jamara–Kulariya Project; I have allocated NPR 5.13 billion for these projects.
+
+To provide an additional 2,380 hectares of irrigation from the Greater Dang Valley and Praganna–Badkapath irrigation projects, I have allocated NPR 1.21 billion. We will complete the preparations needed to irrigate Kapilvastu from the Nomura Multipurpose Irrigation Project. We will rehabilitate and maintain the Banganga Irrigation Project, and I have set aside budget for rehabilitation of the Narayani Irrigation Project.
+
+I have allocated NPR 440 million for maintenance and rehabilitation of irrigation systems including Sunsari–Morang, Chandra Canal, Kamala, Narayani, Gandak, and Koshi Pump. To provide underground irrigation to an additional 3,980 hectares in the Tarai-Madhesh not reached by surface irrigation, I have allocated NPR 1.02 billion, and have arranged the funds needed to provide smart-technology underground irrigation in Sarlahi and Dhanusha districts.
+
+I have allocated NPR 800 million to provide reliable lift-irrigation on cultivable terraces in hilly and mountainous areas; through such hill-terrace lift-irrigation projects we will extend irrigation to an additional 2,230 hectares next year. I have also allocated funds for the management of large and medium rivers including the Mahakali, Karnali, Narayani, and Koshi.
+
+### 42. Information and Communication
+
+We will present a Telecommunications Authority Bill in Parliament. Accelerating the use of the latest technology, we will increase access to quality telecom services, and expand quality telephone service and networks in Karnali and Sudurpaschim provinces.
+
+We will merge the various structures established for government printing into a single, integrated secure-printing institution. We will encourage the expansion of commercial activity through social-media platforms registered in Nepal.
+
+I have allocated NPR 330 million for public-welfare advertising through print and electronic media. I have allocated NPR 5.93 billion in total for the information and communication sector.
+
+*Honorable Speaker, Honorable Chairperson,*
+
+### 43. Sports
+
+Linking sports infrastructure with youth development and the local economy, within three years we will upgrade, with floodlights, ten football stadiums of at least eight thousand spectator capacity. We will build modern cricket stadiums in eight major cities within five years.
+
+We will build indoor multipurpose stadiums of at least two thousand capacity in Biratnagar, Lahan, Kathmandu, Pokhara, Butwal, Surkhet, and Dhangadhi (Phapla) within three years. For the Mulpani Cricket Stadium and Academy, the Girija Prasad Koirala Cricket Stadium, and the Phapla Cricket Stadium in Kailali, we will review the designs and decide the investment modality.
+
+We will arrange to select students with special interest and ability in sports from the basic level of school and provide them training with residential facilities. We will provide lifelong free health care to athletes who win international medals, so they can live with dignity after retirement.
+
+I have set aside funds to complete the 10th National Games in Surkhet and to build the infrastructure needed for the proposed 11th National Games in Madhesh Province. I have allocated NPR 4.03 billion for the sports sector.
+
+<!-- TRANSLATION CONTINUES: ¶44 Quality Education (line 305) onward. -->
+
 
 
 
