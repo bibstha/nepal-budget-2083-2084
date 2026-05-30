@@ -163,6 +163,83 @@ Now, therefore, the Federal Parliament has enacted this Act.
 
 (10) Annex 1 (Tax-exempt goods and services, relating to Section 5(3)) is replaced — see the schedules below.
 
+**56. Amendment to the Excise Duty Act, 2058:** In the Excise Duty Act, 2058,—
+
+(1) In Section 2: (a) in clause (a1), "any mark/sign" becomes "any mark/sign **or digital excise stamp**"; (b) clause (j1) **"tobacco and nicotine products"** is redefined to mean products prepared (by mixing tobacco or tobacco constituents, or using extracted or synthetic nicotine) for smoking, chewing, or oral use — pan masala, gutkha, khaini and the like — and to include cigarettes, bidi, cigars, **electronic cigarettes (vapes), nicotine pouches, hookah flavour**, and other goods the Department designates; (c) clause (n1) **"liquor"** is redefined as any substance with **more than 0.5% alcohol** prepared by fermentation or otherwise from grain, fruit, or starch — including raksi, jaand, whisky, rum, gin, brandy, vodka, beer, wine, sherry, champagne, cider, perry, mead, sake, soju, vermouth, liquor-mixed prepared beverages, prepared cocktails, carbonated wine/liquor, spritz, shandy, industrial alcohol, rectified/malt/silent/denatured spirit, E.N.A. and head spirit — plus others the Department designates; and a new clause (n7a) defines a **"risk-based selective release control system."**
+
+(2) In Section 3A: "accident" becomes "accident, natural disaster, or"; "auxiliary raw material, packing material" is deleted.
+
+(3) Section 4(1)(a) is replaced: for goods of industries under the physical-control and risk-based selective-release systems, excise falls due **at the time of removal for sale**; **micro-breweries pay monthly excise in advance** based on the prescribed yield rate of installed capacity.
+
+(4) In Section 5A, after "such industry," add "to sellers other than those registered for VAT."
+
+(5) In the Section 9(5) proviso, "production of bidi, tobacco, khaini, pan masala, gutkha" becomes "production, export, import, sale or storage of liquor and tobacco/nicotine products."
+
+(6) In Section 9B(1), a proviso is added: a license is not barred from renewal merely because the renewal deadline falls during a suspension period.
+
+(7) In Section 10B(2), a proviso is added: for goods other than tobacco/nicotine products under the self-removal system, certification by the licensee's authorized person is required.
+
+(8) Section 10E(1)(chha) is replaced: where the alcohol content of liquor raw material, spirit in process, pre-removal prepared liquor, or removed liquor differs by **more than ±0.5%** from the declared strength.
+
+(9) In Section 10F, "at any time" is expanded to cover liquor raw material, spirit in process, and pre-removal prepared liquor, with the same ±0.5% deviation standard.
+
+(10) In Section 10S, sub-section (3) is added: digital excise stamps shall be used as the Department prescribes.
+
+(11) After Section 10T, a new Section 10T1 (**Track-and-Trace system**) is added: the Department may apply an electronic track-and-trace system to control and regulate the production, storage, removal, sale, distribution, and movement of liquor and tobacco products; operation and compliance as prescribed.
+
+(12) In Section 16 (penalties): penalties are added for track-and-trace non-compliance or unauthorized access and for alcohol-content deviation; **5% per-annum additional interest** applies to excise arrears; duty-free or exemption-purchased liquor sold or used commercially is **confiscated**, with a fine of the duty value or NPR 100,000, whichever is higher; "rules" becomes "rules, directives and standards"; and where an offender used a vehicle without the owner's permission, the vehicle is not confiscated but the owner is fined NPR 25,000 and the driver up to NPR 15,000 and/or up to three months' imprisonment.
+
+(13) After "fee or fine," add "and the health risk tax under the Finance Act."
+
+(14) Section 25A is replaced: power to make directives and standards for the regulation and control of liquor, tobacco/nicotine products, and other excisable goods.
+
+(15) "tobacco products" becomes "tobacco and nicotine products" throughout; "Taxpayer Service Office" is deleted.
+
+(16) The excise rate schedule (related to Section 3) is replaced — see the schedules below.
+
+**57. Amendment to the Income Tax Act, 2058:** In the Income Tax Act, 2058,—
+
+(1) In Section 2: (a) a clause (kha1) defines **"international transaction"**; (b) a clause defines controlled/associated entities for Sections 33/33A/33B (an entity that controls ≥30% of another's income/capital/voting, that funds ≥50% of another's assets by loan, that depends substantially on another's IP/know-how/business rights, or that supplies ≥90% of another's inputs); (c) cross-references are updated and a clause defines the **"safe harbour rule."**
+
+(2) In Section 5, a reference to the new Section 12D is added.
+
+(3) In Section 8(3), clause (e) is added: **the value of shares received as remuneration for employment in the IT industry is excluded from employment income** (the "sweat-equity" exclusion).
+
+(4) In Section 10 (exempt income), the following are added: income from a natural person's free transfer of own land/building to the Government, a province, or a local level; interest income of a wholly foreign-government-owned, not-for-profit financial institution from loans invested in Nepal; income earned, per their objectives, by water-supply and sanitation user institutions registered under the Water Resources Act, 2049; and income earned, per its objectives, by a university established and operating in Nepal.
+
+(5) In Section 11: a proviso makes interest above NPR 25,000 taxable; and "agriculture business" is redefined (crops, fruit, beekeeping, livestock, poultry, fishery).
+
+(6) In Section 12(2), the donation-deduction cap rises from "one lakh rupees" to **"three lakh rupees."**
+
+(7) After Section 12C, a new Section 12D (**CSR expenditure**) is added: a person may deduct corporate-social-responsibility expenditure in computing that year's taxable income, capped at **1% of total taxable income.**
+
+(8) In Section 21: the cash-transaction limit is changed from "annual turnover above 20 lakh … one-time 50,000" to "any person … one-time **25,000**"; and share/debenture-issue costs are excluded from a deduction clause.
+
+(9) After Section 33, new Sections **33A (Safe Harbour Rule)** and 33B are added: a person with annual turnover up to **NPR 1 billion** meeting the conditions may elect the safe harbour for arm's-length pricing of controlled transactions, whereupon the Department accepts the declared transfer price as arm's length. Conditions: (a) **IT-service export with at least a 15% operating-profit margin** on operating cost; (b) intra-group foreign-currency loan interest at the reference rate + 200–400 basis points; or (c) low-value-adding services at cost + up to 5% markup. Once elected, it applies for five consecutive income years unless circumstances change materially.
+
+(Other sub-clauses make consequential edits, including a startup venture-capital / private-equity ownership-transfer proviso.)
+
+(26) **Schedule 1 (tax rates)** is amended. The headline change — the personal income-tax brackets for a **resident individual or couple** (now unified) for FY 2083/84:
+
+| Annual taxable income (NPR) | Marginal rate |
+| --- | --- |
+| up to 1,000,000 | **1%** (social-security tax; nil for sole proprietors, pension income, and pension-fund/SSF contributors) |
+| 1,000,001 – 1,500,000 | **10%** |
+| 1,500,001 – 2,500,000 | **20%** |
+| 2,500,001 – 4,000,000 | **27%** |
+| above 4,000,000 | **29%** (27% + a 2-percentage-point surcharge) |
+
+The separate couple slab (old sub-section (2)) is deleted and the individual/couple threshold unified at NPR 1,000,000; remote-area allowances rise (5%→7.5%, 7.5%→10%); pension income gets a 25% deduction of the first-band amount, and persons with a disability an extra 50%. The annual tax on rental/registered vehicles is reset by type and capacity — e.g. cars/jeeps/vans/microbuses NPR 6,500 (≤1300 cc) up to 11,000 (>4000 cc); mini-truck/bus 9,500; truck/bus 12,500; heavy machinery (dozer, excavator, loader, roller, crane) 17,500; tractor 3,500; power tiller 3,000; auto-rickshaw/tempo 3,500; electric vehicles 4,000 (≤50 kW) to 9,500 (>200 kW); e-rickshaw 3,400; two-wheelers 3,000.
+
+**58. Amendment to the Customs Duty Act, 2081:** In the Customs Duty Act, 2081,— (1) in Section 13(5), "the ministry, as prescribed" becomes "the officer, as prescribed"; (2) in Sections 14, 15, and 16, "raw material" becomes "raw material or auxiliary raw material, including packing material not produced in Nepal"; (3) after Section 28, a Section 28A (**administrative review and appeal**) is added — a person dissatisfied with a customs officer's decision may seek administrative review and appeal under prevailing customs law; (4) Annex 2 (the **export** customs-duty schedule) is amended with the headings, sub-headings, descriptions, and export-duty rates set out in the schedules; the rest remains unchanged.
+
+**59. Amendment to the Customs Act, 2082:** In the Customs Act, 2082,— (1) in Section 5, "or sub-customs office" is deleted and a sub-section (1a) is added regarding sub-customs offices under a main customs office; (2) in Section 20(10) and (11), "may permit amendment of the declaration" becomes "may amend the declaration" (with the matching proviso); (3) Section 53 is replaced — confiscation of goods extends to the parcels/packets used to pack them, but the carrying vehicle is not confiscated, except where its owner cannot be found and no claim is made on the published notice; (4) in Section 68(1), a sub-section (1a) adds a NPR 3,000 fee for such an application; (5) in Section 70(4), a clause (g) sets fines where certain conveyances are used — carts, tonga, handcart, rickshaw, bicycle up to NPR 10,000; scooter/motorcycle up to NPR 20,000; (6) in Section 71, "fifty percent" becomes "twenty-five percent," and "document" is followed by "deliberately"; (7) in Section 93(3), "or having also paid that" is deleted; (8) in Section 95(2) and (3), "the customs office or" is inserted before "customs clearance"; (9) in the Section 109(2) proviso, a clause is added requiring that, if the submitted documents reveal forgery of a government document, the matter be referred to the relevant body/officer for action under prevailing law; (10) Section 114(4) is replaced — a person wishing to cancel an export or import code may apply to the Department with the renewal fee, and the Department may cancel it.
+
+**60. Validity period:** The provisions of Sections 5–53 of this Act (the levies and reliefs) remain in force until the end of Ashadh 2084, unless otherwise provided by a federal Act.
+
+**61. Amendments deemed made:** The amendments made under Sections 54, 55, 56, 57, 58, and 59 shall be deemed amendments to the respective Acts.
+
+
 ## Tariff and Exemption Schedules
 
 > These are the bill's tariff and exemption schedules (annexes), reproduced as **HS code → rate** tables, with Devanagari numerals converted to Latin. Per-line product descriptions are **not** translated row by row — each follows the standard **Harmonized System (HS)** nomenclature for its code; the full Nepali descriptions are in the companion Nepali file and the original PDF. A blank rate cell denotes a heading/sub-heading line or an entry with no separately specified rate. Annex numbering reflects the source. Generated by `tools/build_schedules_en.py`; figures are OCR-derived — verify against the original before any official use.
